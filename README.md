@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MariusCyber
 - 👀 I’m interested in Cyber Securty
 - 🌱 I’m currently learning CISCO CCNA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking for an Internship
+- 📫 How to reach me? You can message me
 
 <!---
 Marius081/Marius081 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
