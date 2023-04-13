@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MariusCyber
 - 👀 I’m interested in Cyber Securty
-- 🌱 I’m currently learning CISCO CCNA
+- 🌱 I’m currently learning Linux Bash
 - 💞️ I’m looking for an Internship
 - 📫 How to reach me? You can message me
 
