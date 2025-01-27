@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MariusCyber
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
 - 💞️ I’m looking for an Internship or a full time job
 - 📫 How to reach me? You can message me
 
